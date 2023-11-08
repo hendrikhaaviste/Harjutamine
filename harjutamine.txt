@@ -1,1 +1,3 @@
 Github on veebipõhine platvorm, mis pakub versioonihaldusteenuseid ning võimaldab arendajatel koostööd teha tarkvaraarendusprojektides. See on eriti populaarne programmeerijate ja tarkvaraarendajate kogukonna seas.
+Harjutamine.txt lisan ma kõrval harusse, kuhu saan edaspidised muudatused teha.
+Githubi lehelt muudatusi tehakse väha, enamus töö toimub programmis ning giti abil saadame oma faili sisu githubi lehele.
