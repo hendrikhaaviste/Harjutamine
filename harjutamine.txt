@@ -1,0 +1,1 @@
+Github on veebipõhine platvorm, mis pakub versioonihaldusteenuseid ning võimaldab arendajatel koostööd teha tarkvaraarendusprojektides. See on eriti populaarne programmeerijate ja tarkvaraarendajate kogukonna seas.
